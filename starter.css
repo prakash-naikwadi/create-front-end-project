@@ -114,6 +114,8 @@ body {
   color: #555;
 }
 
+/* When You don't give height to the body it will take only content size */
+
 /* set up the body version 2 choose version according to you*/
 body {
   line-height: 1.5;
